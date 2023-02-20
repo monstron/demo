@@ -1,4 +1,5 @@
 {
-  "name":"Sofia Webb",
-  "email":"webb38@example.com"
+  "posts": [
+    {"name":"Sofia Webb", "email":"webb38@example.com"},
+  ]
 }
